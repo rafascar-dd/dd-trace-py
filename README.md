@@ -1,4 +1,6 @@
-# `ddtrace`
+# `ddtrace` - Testing GitHub Branch Update Feature
+
+This is a test branch to demonstrate the GitHub "update branch" feature with a large merge commit.
 
 [![CircleCI](https://circleci.com/gh/DataDog/dd-trace-py/tree/main.svg?style=svg)](https://circleci.com/gh/DataDog/dd-trace-py/tree/main)
 [![PypiVersions](https://img.shields.io/pypi/v/ddtrace.svg)](https://pypi.org/project/ddtrace/)
